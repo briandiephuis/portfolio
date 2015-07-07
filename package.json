@@ -1,0 +1,25 @@
+{
+  "name": "briandiephuis.nl",
+  "version": "2.0.0",
+  "description": "Personal website/ portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "keywords": [
+    "portfolio",
+    "product design",
+    "graphic design",
+    "webdevelopment"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/briandiephuis/portfolio"
+  },
+  "author": "Brian Diephuis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/briandiephuis/portfolio/issues"
+  },
+  "homepage": "http://briandiephuis.nl"
+}

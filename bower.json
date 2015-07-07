@@ -1,0 +1,33 @@
+{
+  "name": "briandiephuis.nl",
+  "version": "2.0.0",
+  "authors": [
+    "Brian Diephuis <mail@briandiephuis.nl>"
+  ],
+  "description": "Personal website/ portfolio",
+  "main": "index.html",
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "portfolio",
+    "product design",
+    "graphic design",
+    "webdevelopment"
+  ],
+  "license": "MIT",
+  "homepage": "http://briandiephuis.nl",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-material": "~0.10.0"
+  }
+}
