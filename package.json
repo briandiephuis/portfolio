@@ -21,5 +21,20 @@
   "bugs": {
     "url": "https://github.com/briandiephuis/portfolio/issues"
   },
-  "homepage": "http://briandiephuis.nl"
+  "homepage": "http://briandiephuis.nl",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-bower": "0.0.10",
+    "gulp-concat": "^2.6.0",
+    "gulp-jshint": "^1.11.2",
+    "gulp-notify": "^2.2.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.0.3",
+    "gulp-sourcemaps": "^1.5.2",
+    "gulp-typescript": "^2.7.8",
+    "gulp-uglify": "^1.2.0",
+    "gulp-util": "^3.0.6",
+    "jshint-stylish": "^2.0.1",
+    "typescript": "Microsoft/TypeScript"
+  }
 }

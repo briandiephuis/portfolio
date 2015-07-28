@@ -28,6 +28,10 @@
     "tests"
   ],
   "dependencies": {
-    "angular-material": "~0.10.0"
+    "bootstrap-sass-official": "~3.3.5",
+    "font-awesome": "~4.3.0",
+    "FlexSlider": "~2.5.0",
+    "rs-plugin": "*",
+    "OwlCarousel2": "~2.0.0-beta.3"
   }
 }
