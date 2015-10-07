@@ -36,5 +36,8 @@
     "gulp-util": "^3.0.6",
     "jshint-stylish": "^2.0.1",
     "typescript": "Microsoft/TypeScript"
+  },
+  "dependencies": {
+    "wordcloud": "^1.0.1"
   }
 }
