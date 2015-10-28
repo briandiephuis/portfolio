@@ -1,3 +1,22 @@
 .cbp-l-project-container p strong {
 	font-weight: 700;
 }
+
+.cbp-l-project-title {
+  font-family: PlanerRegular, "Dosis", sans-serif;
+}
+
+.padded {
+	margin-top: 40px;
+}
+
+/*purchase section*/
+.purchase-sec {
+  padding: 30px 30px;
+  background: #4f82e9; }
+
+.purchase-sec span {
+  line-height: 40px;
+  color: #fff;
+  font-size: 25px;
+  font-weight: 400; }

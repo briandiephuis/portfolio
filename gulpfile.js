@@ -28,7 +28,7 @@ var gulp  = require('gulp'),
 
 /* run the watch task when gulp is called without arguments */
 gulp.task('default', ['watch']);
-gulp.task('build', ['css', 'typescript']);
+gulp.task('build', ['css']);
 
 gulp.task('bower', function() {
     return bower()

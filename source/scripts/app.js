@@ -57,3 +57,9 @@ $(function () {
     // $("#language-wordcloud").jQCloud(word_array);
     
 });
+
+$(document).ready(function () {
+jQuery(function () {
+    jQuery(".player").mb_YTPlayer();
+});
+});

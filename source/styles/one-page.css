@@ -1071,14 +1071,14 @@ label span {
   color: red; }
 
 /****clients***/
-#clients-carousel {
+#toolbelt {
   background-color: #424242;
   padding: 90px 0; }
 
-#clients-carousel .center-heading h2 {
+#toolbelt .center-heading h2 {
   color: #fff; }
 
-#clients-carousel .item {
+#toolbelt .item {
   text-align: center; }
 
 #cta-1 {
